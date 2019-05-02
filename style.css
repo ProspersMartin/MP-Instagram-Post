@@ -1,0 +1,156 @@
+body {
+    background: whitesmoke;
+}
+
+.bordermain {
+    background: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 53%;
+    height: 1200px;
+    text-align: center;}
+
+.accountheader {
+    border-bottom-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+    font-size: 22px;
+    padding: 12px;
+}
+.counts {
+    position: relative;
+    left: 150px;
+    padding-top: 30px;
+}
+
+.followbuttons {
+    position: relative;
+    left: 140px;
+    padding-top: 20px;
+}
+
+.post-count {
+    display: inline-block;
+    margin-right: 40px;
+}
+.follower-count {
+    display: inline-block;
+    margin-right: 40px;
+}
+.following-count {
+    display: inline-block;
+}
+
+.follow-button {
+    display: inline-block;
+    background-color: rgb(0, 102, 255);
+    border: none;
+    color: white;
+    padding: 6px 20px;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    font-size: 12px;
+    border-radius: 4px;
+}
+
+.suggested-follow {
+    background-color: rgb(0, 102, 255);
+    color: white;
+    padding: 6px 20px;
+    text-align: center;
+    width: 3px;
+    font-size: 12px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.back-button {
+    display: inline-block;
+    margin-right: 200px;
+}
+.username{
+    display: inline-block;
+    margin-right: 170px;
+}
+.menu {
+    display: inline-block;
+        margin-left: 25px;
+}
+.bio {
+    padding-top: 30px;
+    padding-bottom: 30px;}
+
+.acctname {
+    text-align: left;
+    margin-left: 15px;
+    font-size: 18px;
+}
+
+.bioparagraph {
+    text-align: left;
+    margin-left: 15px;
+    font-size: 16px;
+}
+
+.viewoptions {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+    padding: 5px;
+}
+.gridview {
+    display: inline-block;
+    margin-right: 165px;
+}
+.singleview {
+    display: inline-block;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.tagged {
+    display: inline-block;
+    margin-left: 165px;
+}
+
+.feed-header {
+    border-bottom-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+}
+
+.sml-username {
+    display: inline-block;
+    text-align: left;
+    margin-left: 50px;
+    font-size: 16px;
+    padding-top: 10px;
+    margin-right: 10px;
+
+}
+.postlocation {
+    text-align: left;
+    margin-left: 30px;
+    font-size: 8px;
+    padding-bottom: 5px;
+}
+
+.sml-menu-button {
+    display: inline-block;
+    margin-left: 390px;
+    padding-bottom: 10px;
+}
+.heartcommentdm {
+    display: inline-block;
+    text-align: left;
+    }
+
+.bookmark {
+    display: inline-block;
+}
+
+.footer {
+    position: fixed;
+  }
