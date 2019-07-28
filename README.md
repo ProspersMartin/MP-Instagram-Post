@@ -11,7 +11,7 @@
 ## Build / Layout
   The project was developed using only HTML, CSS, Font Awesome (for the Icons), and Google Fonts (to match the Instagram typography as closely as possible).
   
-  The following image is the example we were supposed to emulate:
+  The following image is the example I was supposed to model my work after (the minimum desired result):
   
   ![](./images/instagramPostProjectExample.png)
 
