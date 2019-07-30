@@ -1,7 +1,8 @@
 # MP-Instagram-Post
   Developed a sample Instagram page modeled after a personal user account, displaying a single post from that fictitious account (based on the company's design prior to their 2019 Spring update).
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/ProspersMartin/Bootstrap-Instagram-Feed-Project/)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)]
+(https://gitpod.io#https://github.com/ProspersMartin/MP-Instagram-Post)
 
 
 ## Build / Layout
